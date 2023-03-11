@@ -8,6 +8,6 @@
     --yellow: #FBB034;
 
     /* Font-family */
-    --poppins: 'Poppins', sans-serif;
-    --jost: 'Jost', sans-serif;
+    --poppins: Poppins;
+    --jost: Jost;
 }
