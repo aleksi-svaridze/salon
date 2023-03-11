@@ -1,0 +1,23 @@
+.btn {
+    font-family: var(--pippins);
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    width: 182px;
+    height: 52px;
+    text-decoration: none;
+    text-transform: capitalize;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn-yellow {
+    background-color: var(--yellow);
+    color: var(--black);
+}
+.btn-transparent {
+    background-color: transparent;
+    color: var(--white);
+    border: 1px solid var(--white);
+}

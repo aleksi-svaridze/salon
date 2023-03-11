@@ -1,0 +1,13 @@
+:root {
+    /* Colors */
+    --white: #fff;
+    --black: #000;
+    --lightest-gray: #EDEDED;
+    --light-gray:#9A9A9A;
+    --dark-gray:  #565656;
+    --yellow: #FBB034;
+
+    /* Font-family */
+    --poppins: 'Poppins', sans-serif;
+    --jost: 'Jost', sans-serif;
+}
